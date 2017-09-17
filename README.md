@@ -3,6 +3,7 @@
 
 **Hello World in Paul:**
 
+```
 () Hello World in Paul Android Useful Language (PAUL)
 
 package /sdcard/kernel/hello_world/
@@ -10,3 +11,4 @@ package /sdcard/kernel/hello_world/
 print Hello World!
 
 out no
+```
